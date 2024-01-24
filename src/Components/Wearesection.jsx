@@ -3,7 +3,7 @@ import { Heroelipse1, Heroelipse2, Heroelipse3, Whatsapp } from '../CommonIcon/I
 
 const Wearesection = () => {
     return (
-        <div className=' overflow-hidden relative'>
+        <div className=' overflow-hidden relative max-w-[1440px] mx-auto'>
             <span className=' absolute left-[38%] top-[16%] elipse'>
                 <Heroelipse1/>
             </span>

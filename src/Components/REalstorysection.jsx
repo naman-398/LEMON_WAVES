@@ -6,7 +6,7 @@ import { Greenicon , RealStory } from '../CommonIcon/Icon';
 const REalstorysection = () => {
     return (
         <div className=' overflow-hidden'>
-        <div className='max-w-[1218px] mx-auto px-3 mt-[40px] 576:mt-[65px] md:mt-[85px] 992:mt-[105px] mb-[40px] 576:mb-[65px] md:mb-[75px] lg:mb-[95px]'>
+        <div className='max-w-[1218px] mx-auto px-3 mt-[40px] 576:mt-[70px] md:mt-[100px] 992:mt-[161px] mb-[40px] 576:mb-[65px] md:mb-[75px] lg:mb-[95px]'>
             <div className=' flex flex-row flex-wrap -mx-3'>
                 <div className=' w-full sm:w-1/2 px-3 flex flex-col items-center sm:items-end'>
                     <div className='max-w-[445px]'>

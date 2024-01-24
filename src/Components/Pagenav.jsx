@@ -20,38 +20,38 @@ const Pagenav = () => {
                 <div className=' flex items-center justify-between'>
                     <div className=' flex items-center gap-[65.19px]'>
                         <img src={pagelogo} alt="" className=' cursor-pointer'/>
-                        <a href="" className='hidden lg:block font-poppins text-[15px] text-[#000] font-semibold leading-[normal] relative after:absolute after:w-0 after:h-[2px] after:bg-[#B00000] after:left-[50%] after:bottom-[-4px] hover:after:w-[80%] hover:after:left-[8%] after:duration-300'>Our Services</a>
+                        <a href="" className='hidden lg:block font-poppins text-[15px] text-[#000] after:rounded-[10px] font-semibold leading-[normal] relative after:absolute after:w-0 after:h-[2px] after:bg-[#B00000] after:left-[50%] after:bottom-[-4px] hover:after:w-[80%] hover:after:left-[8%] after:duration-300'>Our Services</a>
                     </div>
                     <div className=' flex items-center gap-[33px] min-[992px]:gap-[70px] min-[1200px]:gap-[198px]'>
                         <ul className={`${show === true ? "left-0" : "left-[-100%]"} flex items-center gap-[33px] mobile-view`}>
                             <li>
-                                <a href="" className=' block lg:hidden font-poppins text-[15px] text-[#000] font-semibold leading-[normal] relative after:absolute after:w-0 after:h-[2px] after:bg-[#B00000] after:left-[50%] after:bottom-[-4px] hover:after:w-[80%] hover:after:left-[8%] after:duration-300'>Our Services </a>
+                                <a href="" className=' block lg:hidden font-poppins text-[15px] text-[#000] font-semibold leading-[normal] relative after:absolute after:w-0 after:rounded-[10px] after:h-[2px] after:bg-[#B00000] after:left-[50%] after:bottom-[-4px] hover:after:w-[80%] hover:after:left-[8%] after:duration-300'>Our Services </a>
                             </li>
                             <li>
-                                <a href="" className=' font-poppins text-[15px] text-[#000] font-semibold leading-[normal] relative after:absolute after:w-0 after:h-[2px] after:bg-[#B00000] after:left-[50%] after:bottom-[-4px] hover:after:w-[80%] hover:after:left-[8%] after:duration-300'>About </a>
+                                <a href="" className=' font-poppins text-[15px] text-[#000] font-semibold leading-[normal] after:rounded-[10px] relative after:absolute after:w-0 after:h-[2px] after:bg-[#B00000] after:left-[50%] after:bottom-[-4px] hover:after:w-[80%] hover:after:left-[8%] after:duration-300'>About </a>
                             </li>
                             <li>
-                                <a href="" className=' font-poppins text-[15px] text-[#000] font-semibold leading-[normal] relative after:absolute after:w-0 after:h-[2px] after:bg-[#B00000] after:left-[50%] after:bottom-[-4px] hover:after:w-[80%] hover:after:left-[8%] after:duration-300'>Blog&News </a>
+                                <a href="" className=' font-poppins text-[15px] text-[#000] font-semibold leading-[normal] after:rounded-[10px] relative after:absolute after:w-0 after:h-[2px] after:bg-[#B00000] after:left-[50%] after:bottom-[-4px] hover:after:w-[80%] hover:after:left-[8%] after:duration-300'>Blog&News </a>
                             </li>
                             <li>
-                                <a href="" className=' font-poppins text-[15px] text-[#000] font-semibold leading-[normal] relative after:absolute after:w-0 after:h-[2px] after:bg-[#B00000] after:left-[50%] after:bottom-[-4px] hover:after:w-[80%] hover:after:left-[8%] after:duration-300'>Contact</a>
+                                <a href="" className=' font-poppins text-[15px] text-[#000] font-semibold leading-[normal] after:rounded-[10px] relative after:absolute after:w-0 after:h-[2px] after:bg-[#B00000] after:left-[50%] after:bottom-[-4px] hover:after:w-[80%] hover:after:left-[8%] after:duration-300'>Contact</a>
                             </li>
                             <li>
-                                <a href="" className=' block 576:hidden font-poppins text-[15px] text-[#000] font-semibold leading-[normal] relative after:absolute after:w-0 after:h-[2px] after:bg-[#B00000] after:left-[50%] after:bottom-[-4px] hover:after:w-[80%] hover:after:left-[8%] after:duration-300'>Account</a>
+                                <a href="" className=' block 576:hidden font-poppins text-[15px] text-[#000] font-semibold after:rounded-[10px] leading-[normal] relative after:absolute after:w-0 after:h-[2px] after:bg-[#B00000] after:left-[50%] after:bottom-[-4px] hover:after:w-[80%] hover:after:left-[8%] after:duration-300'>Account</a>
                             </li>
                             <li className=' flex gap-[11px] 576:hidden'><Telephone />
-                                <a href={`tel:${phoneNumber}`} className=' font-poppins text-[15px] text-[#000] font-semibold leading-[normal] relative after:absolute after:w-0 after:h-[2px] after:bg-[#B00000] after:left-[50%] after:bottom-[-4px] hover:after:w-[80%] hover:after:left-[8%] after:duration-300'>
+                                <a href={`tel:${phoneNumber}`} className=' font-poppins text-[15px] text-[#000] font-semibold after:rounded-[10px] leading-[normal] relative after:absolute after:w-0 after:h-[2px] after:bg-[#B00000] after:left-[50%] after:bottom-[-4px] hover:after:w-[80%] hover:after:left-[8%] after:duration-300'>
                                     {phoneNumber}
                                 </a>
                             </li>
                         </ul>
                         <ul className=' items-center gap-[30px] pr-[62px] hidden 576:flex'>
                             <li>
-                                <a href="" className=' font-poppins text-[15px] text-[#000] font-semibold leading-[normal] relative after:absolute after:w-0 after:h-[2px] after:bg-[#B00000] after:left-[50%] after:bottom-[-4px] hover:after:w-[80%] hover:after:left-[8%] after:duration-300'>Account</a>
+                                <a href="" className=' font-poppins text-[15px] text-[#000] font-semibold after:rounded-[10px] leading-[normal] relative after:absolute after:w-0 after:h-[2px] after:bg-[#B00000] after:left-[50%] after:bottom-[-4px] hover:after:w-[80%] hover:after:left-[8%] after:duration-300'>Account</a>
                             </li>
                           <Navline/>
                             <li className=' flex gap-[11px] '><Telephone />
-                                <a href={`tel:${phoneNumber}`} className=' font-poppins text-[15px] text-[#000] font-semibold leading-[normal] relative after:absolute after:w-0 after:h-[2px] after:bg-[#B00000] after:left-[50%] after:bottom-[-4px] hover:after:w-[80%] hover:after:left-[8%] after:duration-300'>
+                                <a href={`tel:${phoneNumber}`} className=' font-poppins text-[15px] text-[#000] after:rounded-[10px] font-semibold leading-[normal] relative after:absolute after:w-0 after:h-[2px] after:bg-[#B00000] after:left-[50%] after:bottom-[-4px] hover:after:w-[80%] hover:after:left-[8%] after:duration-300'>
                                     {phoneNumber}
                                 </a>
                             </li>

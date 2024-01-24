@@ -58,41 +58,41 @@ const Readysection = () => {
                         <p className=' text-[#000] font-poppins text-[14px] font-light leading-[14px] mt-[11px]'>{isChecked ? 'Per year' : 'Per month'}</p>
                         <button className=' font-poppins text-[14px]   z-[1] relative before:absolute before:bg-[#B00000] hover:text-[#FFF] before:top-[100%] before:left-[100%] before:duration-300 hover:before:top-[-30px] duration-300 hover:before:left-[-30px] hover:border-[transparent] overflow-hidden before:w-[366px] before:h-[218px] before:rounded-full before:z-[-1] text-[#000] font-semibold leading-[32px] rounded-[12px] border-[2px] border-[#000] max-w-[256px] w-full mt-[14px] 576:mt-[35px] py-[4px] 576:py-[9px] text-center'>Choose this Plan</button>
                         <div className=' flex flex-col gap-[6px] 576:gap-[15px] mt-[14px] 576:mt-[35px]'>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>2GB SSD</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>2GB SSD</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>10GB Bandwidth</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>10GB Bandwidth</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>15 Email Accounts</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>15 Email Accounts</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>Unlimited Database</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>Unlimited Database</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>4 Subdomains</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>4 Subdomains</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>1 Parked Domain</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>1 Parked Domain</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>2 Websites</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>2 Websites</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>Free SSL</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>Free SSL</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>Softaculous</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>Softaculous</p>
                             </div>
                         </div>
                     </div>
@@ -105,41 +105,41 @@ const Readysection = () => {
                         <p className=' text-[#000] font-poppins text-[14px] font-light leading-[14px] mt-[11px]'>{isChecked ? 'Per year' : 'Per month'}</p>
                         <button className=' font-poppins  z-[1] relative before:absolute before:bg-[#B00000] hover:text-[#FFF] before:top-[100%] before:left-[100%] before:duration-300 hover:before:top-[-30px] duration-300 hover:before:left-[-30px] hover:border-[transparent] overflow-hidden before:w-[366px] before:h-[218px] before:rounded-full before:z-[-1] text-[14px] text-[#000] font-semibold leading-[32px] rounded-[12px] border-[2px] border-[#000] max-w-[256px] w-full mt-[14px] 576:mt-[35px] py-[4px] 576:py-[9px] text-center'>Choose this Plan</button>
                         <div className=' flex flex-col gap-[6px] 576:gap-[15px] mt-[14px] 576:mt-[35px]'>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>2GB SSD</p>
+                                <p className=' font-inter ttext-[14px] 450:ext-[16px] font-bold leading-[24px] text-[#808080]'>2GB SSD</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>10GB Bandwidth</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>10GB Bandwidth</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>15 Email Accounts</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>15 Email Accounts</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>Unlimited Database</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>Unlimited Database</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>4 Subdomains</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>4 Subdomains</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>1 Parked Domain</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>1 Parked Domain</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>2 Websites</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>2 Websites</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>Free SSL</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>Free SSL</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>Softaculous</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>Softaculous</p>
                             </div>
                         </div>
                     </div>
@@ -152,41 +152,41 @@ const Readysection = () => {
                         <p className=' text-[#000] font-poppins text-[14px] font-light leading-[14px] mt-[11px]'>{isChecked ? 'Per year' : 'Per month'}</p>
                         <button className=' z-[1] relative before:absolute before:bg-[#B00000] hover:text-[#FFF] before:top-[100%] before:left-[100%] before:duration-300 hover:before:top-[-30px] duration-300 hover:before:left-[-30px] hover:border-[transparent] overflow-hidden before:w-[366px] before:h-[218px] before:rounded-full before:z-[-1] font-poppins text-[14px] text-[#000] font-semibold leading-[32px] rounded-[12px] border-[2px] border-[#000] max-w-[256px] w-full mt-[14px] 576:mt-[35px] py-[4px] 576:py-[9px] text-center'>Choose this Plan</button>
                         <div className=' flex flex-col gap-[6px] 576:gap-[15px] mt-[14px] 576:mt-[35px]'>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>2GB SSD</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>2GB SSD</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>10GB Bandwidth</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>10GB Bandwidth</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>15 Email Accounts</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>15 Email Accounts</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>Unlimited Database</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>Unlimited Database</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>4 Subdomains</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>4 Subdomains</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>1 Parked Domain</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>1 Parked Domain</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>2 Websites</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>2 Websites</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>Free SSL</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>Free SSL</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>Softaculous</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>Softaculous</p>
                             </div>
                         </div>
                     </div>
@@ -202,41 +202,41 @@ const Readysection = () => {
                         <p className=' text-[#000] font-poppins text-[14px] font-light leading-[14px] mt-[11px]'>{isChecked ? 'Per year' : 'Per month'}</p>
                         <button className=' z-[1] relative before:absolute before:bg-[#B00000] hover:text-[#FFF] before:top-[100%] before:left-[100%] before:duration-300 hover:before:top-[-30px] duration-300 hover:before:left-[-30px] hover:border-[transparent] overflow-hidden before:w-[366px] before:h-[218px] before:rounded-full before:z-[-1] font-poppins text-[14px] text-[#000] font-semibold leading-[32px] rounded-[12px] border-[2px] border-[#000] max-w-[256px] w-full mt-[14px] 576:mt-[35px] py-[4px] 576:py-[9px] text-center'>Choose this Plan</button>
                         <div className=' flex flex-col gap-[6px] 576:gap-[15px] mt-[14px] 576:mt-[35px]'>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>2GB SSD</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>2GB SSD</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>10GB Bandwidth</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>10GB Bandwidth</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>15 Email Accounts</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>15 Email Accounts</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>Unlimited Database</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>Unlimited Database</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>4 Subdomains</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>4 Subdomains</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>1 Parked Domain</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>1 Parked Domain</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>2 Websites</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>2 Websites</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>Free SSL</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>Free SSL</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>Softaculous</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>Softaculous</p>
                             </div>
                         </div>
                     </div>
@@ -249,41 +249,41 @@ const Readysection = () => {
                         <p className=' text-[#000] font-poppins text-[14px] font-light leading-[14px] mt-[11px]'>{isChecked ? 'Per year' : 'Per month'}</p>
                         <button className=' z-[1] relative before:absolute before:bg-[#B00000] hover:text-[#FFF] before:top-[100%] before:left-[100%] before:duration-300 hover:before:top-[-30px] duration-300 hover:before:left-[-30px] hover:border-[transparent] overflow-hidden before:w-[366px] before:h-[218px] before:rounded-full before:z-[-1] font-poppins text-[14px] text-[#000] font-semibold leading-[32px] rounded-[12px] border-[2px] border-[#000] max-w-[256px] w-full mt-[14px] 576:mt-[35px] py-[4px] 576:py-[9px] text-center'>Choose this Plan</button>
                         <div className=' flex flex-col gap-[6px] 576:gap-[15px] mt-[14px] 576:mt-[35px]'>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>2GB SSD</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>2GB SSD</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>10GB Bandwidth</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>10GB Bandwidth</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>15 Email Accounts</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>15 Email Accounts</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>Unlimited Database</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>Unlimited Database</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>4 Subdomains</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>4 Subdomains</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>1 Parked Domain</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>1 Parked Domain</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>2 Websites</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>2 Websites</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>Free SSL</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>Free SSL</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>Softaculous</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>Softaculous</p>
                             </div>
                         </div>
                     </div>
@@ -296,41 +296,41 @@ const Readysection = () => {
                         <p className=' text-[#000] font-poppins text-[14px] font-light leading-[14px] mt-[11px]'>{isChecked ? 'Per year' : 'Per month'}</p>
                         <button className=' z-[1] relative before:absolute before:bg-[#B00000] hover:text-[#FFF] before:top-[100%] before:left-[100%] before:duration-300 hover:before:top-[-30px] duration-300 hover:before:left-[-30px] hover:border-[transparent] overflow-hidden before:w-[366px] before:h-[218px] before:rounded-full before:z-[-1] font-poppins text-[14px] text-[#000] font-semibold leading-[32px] rounded-[12px] border-[2px] border-[#000] max-w-[256px] w-full mt-[14px] 576:mt-[35px] py-[4px] 576:py-[9px] text-center'>Choose this Plan</button>
                         <div className=' flex flex-col gap-[6px] 576:gap-[15px] mt-[14px] 576:mt-[35px]'>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>2GB SSD</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>2GB SSD</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>10GB Bandwidth</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>10GB Bandwidth</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>15 Email Accounts</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>15 Email Accounts</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>Unlimited Database</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>Unlimited Database</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>4 Subdomains</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>4 Subdomains</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>1 Parked Domain</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>1 Parked Domain</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>2 Websites</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>2 Websites</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>Free SSL</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>Free SSL</p>
                             </div>
-                            <div className=' flex gap-[15px] 992:gap-[24px] items-center'>
+                            <div className=' flex gap-[10px] 450:gap-[15px] 992:gap-[24px] items-center'>
                                 <span><Righticon/></span>
-                                <p className=' font-inter text-[16px] font-bold leading-[24px] text-[#808080]'>Softaculous</p>
+                                <p className=' font-inter text-[14px] 450:text-[16px] font-bold leading-[24px] text-[#808080]'>Softaculous</p>
                             </div>
                         </div>
                     </div>

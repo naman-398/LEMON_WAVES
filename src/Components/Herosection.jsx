@@ -11,7 +11,7 @@ const Herosection = () => {
         setFirst(tab);
     }
     return (
-        <div>
+        <div className=' overflow-hidden'>
             <Pagenav />
             <div className=' max-w-[1240px] mx-auto px-3 mt-[20px] 576:mt-[40px] md:mt-[60px] 992:mt-[80px]'>
                 <div className=' flex flex-row flex-wrap -mx-3'>
