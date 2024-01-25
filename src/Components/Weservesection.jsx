@@ -43,7 +43,7 @@ const Weservesection = () => {
                             </div>
                         </div>
                         <div className=' w-1/3 576:w-1/6 md:w-1/3 px-3' data-aos="fade-left">
-                            <div className=' max-w-[120px] max-h-[60px] 576:max-h-[100px] 992:max-h-[120px] mx-auto'>
+                            <div className=' max-w-[120px] max-h-[60px] 576:max-h-[100px] 992:max-h-[120px] mx-auto object-fill h-full'>
                                 <img src={weserve6} alt="weserve" />
                             </div>
                         </div>

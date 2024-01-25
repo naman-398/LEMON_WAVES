@@ -13,7 +13,7 @@ const Herosection = () => {
     return (
         <div className=' overflow-hidden'>
             <Pagenav />
-            <div className=' max-w-[1240px] mx-auto px-3 mt-[20px] 576:mt-[40px] md:mt-[60px] 992:mt-[80px]'>
+            <div className=' max-w-[1240px] mx-auto px-3 mt-[20px] 576:mt-[40px] md:mt-[60px] 992:mt-[80px] mb-[49px] md:mb-[79px]'>
                 <div className=' flex flex-row flex-wrap -mx-3'>
                     <div className=' w-full md:w-1/2 px-3 pt-5'>
                         <div className=' flex justify-center md:block'>
@@ -34,10 +34,10 @@ const Herosection = () => {
                         </div>
                     </div>
                     <div className=' w-full md:w-1/2 px-3 pt-[17px] flex items-center relative'>
-                        <span className=' absolute top-[1%] 576:top-[15%] right-[5%] sm:right-[10%] md:right-[0%] 1200:right-[5%] elipse'><Heroelipse1/></span>
-                        <span className=' absolute bottom-[-3%] 576:bottom-[32%] left-[4%] sm:left-[10%] md:left-[0%] 1200:left-[6%] elipse'><Heroelipse3/></span>
-                        <span className=' absolute bottom-[-10%] 576:bottom-[9%] right-[5%] sm:right-[10%] md:right-0 1200:right-[6%] elipse'><Heroelipse2/></span>
-<img className=' max-w-[501px] max-h-[504px] mx-auto 992:ms-auto w-full' src={heroimg} alt="" />
+                        <span className=' absolute top-[1%] 576:top-[15%] right-[5%] sm:right-[10%] md:right-[0%] 1200:right-[5%] xl:right-[-1%] elipse'><Heroelipse1/></span>
+                        <span className=' absolute bottom-[-3%] 576:bottom-[32%] left-[4%] sm:left-[10%] md:left-[0%] 1200:left-[5%] xl:left-[15%] elipse'><Heroelipse3/></span>
+                        <span className=' absolute bottom-[-10%] 576:bottom-[9%] right-[5%] sm:right-[10%] md:right-0 1200:right-[6%] xl:right-[-2%] elipse'><Heroelipse2/></span>
+<img className=' max-w-[501px] max-h-[504px] mx-auto xl:mx-0 xl:ms-auto w-full' src={heroimg} alt="" />
                     </div>
                 </div>
             </div>
