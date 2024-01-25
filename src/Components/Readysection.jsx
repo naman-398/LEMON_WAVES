@@ -13,7 +13,7 @@ const Readysection = () => {
   };
 
     return (
-        <div className=' max-w-[1121px] mx-auto px-3 mt-[40px] 576:mt-[50px] md:mt-[90px] 992:mt-[133px] overflow-hidden'>
+        <div id='about' className=' max-w-[1121px] mx-auto px-3 mt-[40px] 576:mt-[50px] md:mt-[90px] 992:mt-[133px] overflow-hidden'>
     
             <p className=' font-poppins text-[#000] font-semibold leading-[36px] 450:leading-[50px] 576:leading-[60px] text-center text-[28px] 450:text-[40px] 576:text-[50px] mx-auto max-w-[650px]'  data-aos="fade-left">Ready to get started with
                 Lemon Wares?</p>
