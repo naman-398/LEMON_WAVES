@@ -51,7 +51,7 @@ const Readysection = () => {
             </div>
           { first === 'tab1' &&  <div className=' flex flex-wrap flex-row -mx-3 mt-[20px] 576:mt-[40px] md:mt-[65px] lg:mt-[95px] justify-center md:justify-start'>
                 <div className=' w-full 576:w-1/2 md:w-1/3 px-3' data-aos="fade-right">
-                    <div className=' mx-auto 992:mx-0 p-[20px_15px] 576:p-[34px_15px_48px_20px] 992:p-[34px_27px_48px_34px] max-w-[300px] rounded-[15px] bg-[#fff] border-[1.5px] border-[#C4C4C4] shadow-[0px_0px_4px_0px_#00000040_inset]  duration-[.3s] ease-linear hover:shadow-[0px_0px_5px_0px_#b000004d_inset] hover:border-transparent'>
+                    <div className=' cursor-pointer mx-auto 992:mx-0 p-[20px_15px] 576:p-[34px_15px_48px_20px] 992:p-[34px_27px_48px_34px] max-w-[300px] rounded-[15px] bg-[#fff] border-[1.5px] border-[#C4C4C4] shadow-[0px_0px_4px_0px_#00000040_inset]  duration-[.3s] ease-linear hover:shadow-[0px_0px_5px_0px_#b000004d_inset] hover:border-transparent'>
                         <p className=' font-poppins text-[28px] font-semibold leading-[25px] text-[#000]'>Starter</p>
                         <p className=' max-w-[237px] font-poppins text-[12px] font-normal leading-[18px] text-[#000] mt-[5px] 576:mt-[11px]'>with all your customers via all conversation channels in one central dashboard.</p>
                         <p className=' font-poppins text-[42px] leading-[32px] font-semibold text-[#000] mt-[10px] 576:mt-[28px]'>{isChecked ? '$20.80' : '$2.80'}</p>
@@ -98,7 +98,7 @@ const Readysection = () => {
                     </div>
                 </div>
                 <div className=' w-full 576:w-1/2 md:w-1/3 px-3 mt-[8px] 450:mt-[20px] 576:mt-0' data-aos="fade-right">
-                    <div className=' mx-auto 992:mx-0 p-[20px_15px] 576:p-[34px_15px_48px_20px] 992:p-[34px_27px_48px_34px] max-w-[300px] rounded-[15px] bg-[#fff] border-[1.5px] border-[#C4C4C4] shadow-[0px_0px_4px_0px_#00000040_inset]  duration-[.3s] ease-linear hover:shadow-[0px_0px_5px_0px_#b000004d_inset] hover:border-transparent'>
+                    <div className=' cursor-pointer mx-auto 992:mx-0 p-[20px_15px] 576:p-[34px_15px_48px_20px] 992:p-[34px_27px_48px_34px] max-w-[300px] rounded-[15px] bg-[#fff] border-[1.5px] border-[#C4C4C4] shadow-[0px_0px_4px_0px_#00000040_inset]  duration-[.3s] ease-linear hover:shadow-[0px_0px_5px_0px_#b000004d_inset] hover:border-transparent'>
                         <p className=' font-poppins text-[28px] font-semibold leading-[25px] text-[#000]'>Standard</p>
                         <p className=' max-w-[237px] font-poppins text-[12px] font-normal leading-[18px] text-[#000] mt-[5px] 576:mt-[11px]'>with all your customers via all conversation channels in one central dashboard.</p>
                         <p className=' font-poppins text-[42px] leading-[32px] font-semibold text-[#000] mt-[10px] 576:mt-[28px]'>{isChecked ? '$41.25' : '$4.20'}</p>
@@ -145,7 +145,7 @@ const Readysection = () => {
                     </div>
                 </div>
                 <div className=' w-full 576:w-1/2 md:w-1/3 px-3 mt-[8px] 450:mt-[20px] md:mt-0' data-aos="fade-left">
-                    <div className=' mx-auto 992:mx-0 p-[20px_15px] 576:p-[34px_15px_48px_20px] 992:p-[34px_27px_48px_34px] max-w-[300px] rounded-[15px] bg-[#fff] border-[1.5px] border-[#C4C4C4] shadow-[0px_0px_4px_0px_#00000040_inset] duration-[.3s] ease-linear hover:shadow-[0px_0px_5px_0px_#b000004d_inset] hover:border-transparent'>
+                    <div className=' cursor-pointer mx-auto 992:mx-0 p-[20px_15px] 576:p-[34px_15px_48px_20px] 992:p-[34px_27px_48px_34px] max-w-[300px] rounded-[15px] bg-[#fff] border-[1.5px] border-[#C4C4C4] shadow-[0px_0px_4px_0px_#00000040_inset] duration-[.3s] ease-linear hover:shadow-[0px_0px_5px_0px_#b000004d_inset] hover:border-transparent'>
                         <p className=' font-poppins text-[28px] font-semibold leading-[25px] text-[#000]'>Suprem</p>
                         <p className=' max-w-[237px] font-poppins text-[12px] font-normal leading-[18px] text-[#000] mt-[5px] 576:mt-[11px]'>with all your customers via all conversation channels in one central dashboard.</p>
                         <p className=' font-poppins text-[42px] leading-[32px] font-semibold text-[#000] mt-[10px] 576:mt-[28px]'>{isChecked ? '$61.25' : '$7.00'}</p>
@@ -195,7 +195,7 @@ const Readysection = () => {
             </div>}
           { first === 'tab2' &&  <div className=' flex flex-wrap flex-row -mx-3 mt-[20px] 576:mt-[40px] md:mt-[65px] lg:mt-[95px] justify-center md:justify-start'>
           <div className=' w-full 576:w-1/2 md:w-1/3 px-3' data-aos="fade-right">
-                    <div className=' mx-auto 992:mx-0 p-[20px_15px] 576:p-[34px_15px_48px_20px] 992:p-[34px_27px_48px_34px] max-w-[300px] rounded-[15px] bg-[#fff] border-[1.5px] border-[#C4C4C4] shadow-[0px_0px_4px_0px_#00000040_inset] duration-[.3s] ease-linear hover:shadow-[0px_0px_5px_0px_#b000004d_inset] hover:border-transparent'>
+                    <div className=' cursor-pointer mx-auto 992:mx-0 p-[20px_15px] 576:p-[34px_15px_48px_20px] 992:p-[34px_27px_48px_34px] max-w-[300px] rounded-[15px] bg-[#fff] border-[1.5px] border-[#C4C4C4] shadow-[0px_0px_4px_0px_#00000040_inset] duration-[.3s] ease-linear hover:shadow-[0px_0px_5px_0px_#b000004d_inset] hover:border-transparent'>
                         <p className=' font-poppins text-[28px] font-semibold leading-[25px] text-[#000]'>Suprem</p>
                         <p className=' max-w-[237px] font-poppins text-[12px] font-normal leading-[18px] text-[#000] mt-[5px] 576:mt-[11px]'>with all your customers via all conversation channels in one central dashboard.</p>
                         <p className=' font-poppins text-[42px] leading-[32px] font-semibold text-[#000] mt-[10px] 576:mt-[28px]'>{isChecked ? '$61.25' : '$7.00'}</p>
@@ -242,7 +242,7 @@ const Readysection = () => {
                     </div>
                 </div>
                 <div className=' w-full 576:w-1/2 md:w-1/3 px-3 mt-[8px] 450:mt-[20px] 576:mt-0' data-aos="fade-right">
-                    <div className=' mx-auto 992:mx-0 p-[20px_15px] 576:p-[34px_15px_48px_20px] 992:p-[34px_27px_48px_34px] max-w-[300px] rounded-[15px] bg-[#fff] border-[1.5px] border-[#C4C4C4] shadow-[0px_0px_4px_0px_#00000040_inset]  duration-[.3s] ease-linear hover:shadow-[0px_0px_5px_0px_#b000004d_inset] hover:border-transparent'>
+                    <div className=' cursor-pointer mx-auto 992:mx-0 p-[20px_15px] 576:p-[34px_15px_48px_20px] 992:p-[34px_27px_48px_34px] max-w-[300px] rounded-[15px] bg-[#fff] border-[1.5px] border-[#C4C4C4] shadow-[0px_0px_4px_0px_#00000040_inset]  duration-[.3s] ease-linear hover:shadow-[0px_0px_5px_0px_#b000004d_inset] hover:border-transparent'>
                         <p className=' font-poppins text-[28px] font-semibold leading-[25px] text-[#000]'>Standard</p>
                         <p className=' max-w-[237px] font-poppins text-[12px] font-normal leading-[18px] text-[#000] mt-[5px] 576:mt-[11px]'>with all your customers via all conversation channels in one central dashboard.</p>
                         <p className=' font-poppins text-[42px] leading-[32px] font-semibold text-[#000] mt-[10px] 576:mt-[28px]'>{isChecked ? '$41.25' : '$4.20'}</p>
@@ -289,7 +289,7 @@ const Readysection = () => {
                     </div>
                 </div>
           <div className=' w-full 576:w-1/2 md:w-1/3 px-3 mt-[8px] 450:mt-[20px] md:mt-0' data-aos="fade-left">
-                    <div className=' mx-auto 992:mx-0 p-[20px_15px] 576:p-[34px_15px_48px_20px] 992:p-[34px_27px_48px_34px] max-w-[300px] rounded-[15px] bg-[#fff] border-[1.5px] border-[#C4C4C4] shadow-[0px_0px_4px_0px_#00000040_inset]  duration-[.3s] ease-linear hover:shadow-[0px_0px_5px_0px_#b000004d_inset] hover:border-transparent'>
+                    <div className=' cursor-pointer mx-auto 992:mx-0 p-[20px_15px] 576:p-[34px_15px_48px_20px] 992:p-[34px_27px_48px_34px] max-w-[300px] rounded-[15px] bg-[#fff] border-[1.5px] border-[#C4C4C4] shadow-[0px_0px_4px_0px_#00000040_inset]  duration-[.3s] ease-linear hover:shadow-[0px_0px_5px_0px_#b000004d_inset] hover:border-transparent'>
                         <p className=' font-poppins text-[28px] font-semibold leading-[25px] text-[#000]'>Starter</p>
                         <p className=' max-w-[237px] font-poppins text-[12px] font-normal leading-[18px] text-[#000] mt-[5px] 576:mt-[11px]'>with all your customers via all conversation channels in one central dashboard.</p>
                         <p className=' font-poppins text-[42px] leading-[32px] font-semibold text-[#000] mt-[10px] 576:mt-[28px]'>{isChecked ? '$20.80' : '$2.80'}</p>

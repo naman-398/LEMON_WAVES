@@ -124,7 +124,7 @@ export const Navline = () => {
 }
 export const Heroelipse3 = () => {
   return (
-    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" fill="none">
+    <svg className=" 576:w-[40px] w-[25px]" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" fill="none">
     <path d="M0 40H40L0 0V40Z" fill="#B00000"/>
   </svg>
   )

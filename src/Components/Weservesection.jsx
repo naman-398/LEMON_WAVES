@@ -16,7 +16,7 @@ const Weservesection = () => {
                     <p className=' font-inter font-normal text-[16px] 992:text-[18px] leading-[normal] 576:leading-[28px] 992:leading-[32px] text-[#18191F] max-w-[445px] mt-2 mx-auto text-center md:mx-0 md:text-start' data-aos="fade-right">Connect LemonWares with your favourite tools that you use daily and keep things on track.</p>
                 </div>
                 <div className=' w-full md:w-1/2 px-3'>
-                    <div className=' flex flex-row flex-wrap -mx-3'>
+                    <div className=' flex flex-row flex-wrap -mx-3  mb-[30px] 576:mb-[45px] md:mb-[65px] 992:mb-[85px]'>
                         <div className=' w-1/3 576:w-1/6 md:w-1/3 px-3' data-aos="fade-left">
                             <div className=' max-w-[120px] max-h-[60px] 576:max-h-[100px] 992:max-h-[120px] mx-auto'>
                                 <img src={weserve1} alt="weserve" />
